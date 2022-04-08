@@ -28,6 +28,8 @@ As shown in the multiple line graph above, the urban cities had the highest tota
 
 In summary, the drop in the number of ride usage in the rural cities within the months of January to April, 2019 could be due to the low number of available rides and drivers in those cities and allocating more rides & drivers to the rural cities will most likely reduce average fare per ride & driver which will invariably boost ride affordability. 
 
+
+
 In addition, although the available data is limited to 2019, the Urban cities might also benefit from more ride allocation within the months of January to April as this will help meet the demands for rides in those months , increase revenue and enhance affordability.
 
 
