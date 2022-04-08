@@ -7,14 +7,22 @@ The purpose of this project is to perform exploratory analysis of Pyber ride sha
 
 ## Results:
 
+### Total fares,total drivers and average fares:
 
-By reviewing the summary we can see that there are several key findings including:
+From the below pyber summary we can see that there are several key findings:
 
-Urban cities have the highest ridership demand while rural cities have the least.
-Urban cities have 4x+ more drivers than suburban cities.
-Suburban cities have 6x + drivers than rural with almost 4.5x the revenue.
-Rural cities have the highest average fare per ride and driver.
-The summary data shows a relationship in which fare revenue is higher by city type when there is a larger ratio of drivers to rides.
+![Pyber_summary.png](https://github.com/klkanchi/PyBer_Analysis/blob/main/analysis/Pyber_summary.png)
+
+- Urban cities have the highest ridership demand while rural cities have the least.
+- Urban cities have 4x+ more drivers than suburban cities.
+- Suburban cities have 6x + drivers than rural with almost 4.5x the revenue.
+- Rural cities have the highest average fare per ride and driver.
+- The summary data shows a relationship in which fare revenue is higher by city type when there is a larger ratio of drivers to rides.
+
+### Pyber fare summary by City type:
+
+![PyBer_fare_summary.png](https://github.com/klkanchi/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+
 
 As shown in the multiple line graph above, the urban cities had the highest total fare within the months of January to April 2019 followed by the rural cities while the urban cities had the lowest fare and the low fares can be attributed to the empty cells observed in the rural cities column after arranging the data into the specified date range using the loc function. 
 
