@@ -23,16 +23,15 @@ From the below pyber summary we can see that there are several key findings:
 
 ![PyBer_fare_summary.png](https://github.com/klkanchi/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
+- As shown in the multiple line graph above, the urban cities had the highest total fare within the months of January to April 2019 followed by the rural cities while the urban cities had the lowest fare and the low fares can be attributed to the empty cells observed in the rural cities column after arranging the data into the specified date range using the loc function. 
 
-As shown in the multiple line graph above, the urban cities had the highest total fare within the months of January to April 2019 followed by the rural cities while the urban cities had the lowest fare and the low fares can be attributed to the empty cells observed in the rural cities column after arranging the data into the specified date range using the loc function. 
+- In summary, the drop in the number of ride usage in the rural cities within the months of January to April, 2019 could be due to the low number of available rides and drivers in those cities and allocating more rides & drivers to the rural cities will most likely reduce average fare per ride & driver which will invariably boost ride affordability. 
 
-In summary, the drop in the number of ride usage in the rural cities within the months of January to April, 2019 could be due to the low number of available rides and drivers in those cities and allocating more rides & drivers to the rural cities will most likely reduce average fare per ride & driver which will invariably boost ride affordability. 
-
-
-
-In addition, although the available data is limited to 2019, the Urban cities might also benefit from more ride allocation within the months of January to April as this will help meet the demands for rides in those months , increase revenue and enhance affordability.
+- In addition, although the available data is limited to 2019, the Urban cities might also benefit from more ride allocation within the months of January to April as this will help meet the demands for rides in those months , increase revenue and enhance affordability.
 
 
 ## Summary:
 
-Based on the analysis my business recommendations to Pyber are: Increasing the amount of drivers in Rural areas to ensure there are enough drivers to meet ride demand. Data for rural cities shows that the average fare per ride and average fare per driver is much higher than Suburban and urban cities.This can indicate that rural area based riders are taking trips over a longer distance. This can result in a majority of drivers being occupied with current trips and loss in potential revenue when there are peaks in business
+- Based on the analysis my business recommendations to Pyber are: Increasing the amount of drivers in Rural areas to ensure there are enough drivers to meet ride demand. 
+- Data for rural cities shows that the average fare per ride and average fare per driver is much higher than Suburban and urban cities.
+- This can indicate that rural area based riders are taking trips over a longer distance. This can result in a majority of drivers being occupied with current trips and loss in potential revenue when there are peaks in business
